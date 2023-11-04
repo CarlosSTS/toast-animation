@@ -1,4 +1,4 @@
-# react-native-toast-animation 
+# Toast-animation 
 1. Um pequeno projeto construido com expo com o objetivo de estudar sobre animações no react-native.
 
 ## módulos
