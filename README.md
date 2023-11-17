@@ -14,7 +14,7 @@ O projeto contém os seguintes módulos
 
 ## Páginas do app
 
-<img src="https://github.com/CarlosSTS/react-native-toast-animation/blob/master/assets/home.pn" alt="Foto do Home" width="360" />
+<img src="https://github.com/CarlosSTS/react-native-toast-animation/blob/master/assets/home.png" alt="Foto do Home" width="360" />
 
 ## MOBILE
 
