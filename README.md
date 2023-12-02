@@ -22,8 +22,6 @@ O projeto contém os seguintes módulos
 </tr>
 </table>
 
-<img src="" alt="Foto do Home" width="360" />
-
 ## MOBILE
 
 RODANDO O PROJETO MOBILE
